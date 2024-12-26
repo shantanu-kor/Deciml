@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Deciml",
-    version="0.1.1",
+    version="0.1.2",
     description="Extension of Decimal standard package",
     author="Shank",
     author_email="kor.shantanu1@gmail.com",
